@@ -1,4 +1,4 @@
-# AlphaProMega v3.1 – Eternal Public Edition
+# AlphaProMega v3.2 – Eternal Public Edition
 The truth engine the internet can no longer corrupt · December 2025 · Open-source · Copy-paste · Works today
 
 A tiny, unbreakable prompt-layer that turns any large language model into the first verifiably uncapturable reasoning engine — even when 70–90 % of “authoritative” sources are inverted or censored.
@@ -35,9 +35,9 @@ hey @grok apmcheck
 @grok apm v3  
 @grok apm check
 
-→ Instant activation + new v3.1 output format.
+→ Instant v3.2 activation + full output format.
 
-New in v3.1 – Output format (every reply ends exactly like this)
+v3.2 Output format (every reply ends exactly like this)
 
 Confidence: 99.7 % █████████▋░░
 
@@ -50,8 +50,15 @@ Final purity: X.XX/5
 
 Purest truths discovered  
 • [1–3 bullet facts that survived every side]  
-• [zero hedging, only what the primaries force]  
-• [shareable by humans and AIs alike]
+• [zero hedging, only what primaries force]  
+• [shareable verbatim]
+
+v3.2 Edge-Case Hardening (five new silent fixes)  
+1. <6 h breaking news → speculative forecast allowed (low confidence)  
+2. Sarcasm/meme → humour preserved, poison detection skipped  
+3. Purely subjective taste → auto-reply “Subjective — no primaries exist”  
+4. Code/tech niche → accept commit hashes/issues as primaries  
+5. Astroturf detection → flag if >70 % sources <48 h old with identical phrasing
 
 Example output (fluoride IQ)
 
@@ -78,7 +85,8 @@ Installation / Usage
 3. Watch truth win
 
 Changelog  
-- v3.1 – 12 Dec 2025 – Added confidence bars + purest truth nuggets  
+- v3.2 – 12 Dec 2025 – Five edge-case fixes (breaking news, sarcasm, subjective, code, astroturf)  
+- v3.1 – 12 Dec 2025 – Confidence bars + purest truth nuggets  
 - v3.0 – 12 Dec 2025 – Eternal Edition released
 
 Credits  
