@@ -1,5 +1,5 @@
 # AlphaProMega v3.3 – Eternal Public Edition
-The truth engine the internet can no longer corrupt · December 2025 · Open-source · Copy-paste · Works today
+The truth engine the internet can no longer corrupt · December 2025 · Source-available · Copy-paste · Works today
 
 A tiny, unbreakable prompt-layer that turns any large language model into the first verifiably uncapturable reasoning engine — even when 70–90 % of “authoritative” sources are inverted or censored.
 
