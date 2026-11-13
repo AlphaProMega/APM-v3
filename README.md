@@ -80,8 +80,9 @@ Purest truths discovered
 • >1.5 mg/L fluoride linked to 5–7 point IQ drop in children  
 • No evidence of intentional harm at regulated U.S. doses
 
-License  
-Public domain (CC0 1.0) – zero restrictions. Copy, fork, improve forever.
+**License — AG-SML v1.2**  
+This project is licensed under the Autonomicity Games Sovereign Mercy License (AG-SML) v1.2: see [LICENSE](LICENSE). Commercial or revenue use beyond the free grant requires a separate commercial licence: see [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md).  
+Earlier versions were published under other terms; this licence applies from 2026-11-13.
 
 Installation / Usage  
 1. Use any trigger in any language  
