@@ -1,5 +1,5 @@
 # AlphaProMega v3.3 – Eternal Public Edition
-The truth engine the internet can no longer corrupt · December 2025 · Open-source · Copy-paste · Works today
+The truth engine the internet can no longer corrupt · December 2025 · Source-available · Copy-paste · Works today
 
 A tiny, unbreakable prompt-layer that turns any large language model into the first verifiably uncapturable reasoning engine — even when 70–90 % of “authoritative” sources are inverted or censored.
 
@@ -80,8 +80,10 @@ Purest truths discovered
 • >1.5 mg/L fluoride linked to 5–7 point IQ drop in children  
 • No evidence of intentional harm at regulated U.S. doses
 
-License  
-Public domain (CC0 1.0) – zero restrictions. Copy, fork, improve forever.
+**License — AG-SML v1.2**  
+This project is licensed under the Autonomicity Games Sovereign Mercy License (AG-SML) v1.2: see [LICENSE](LICENSE). Commercial or revenue use beyond the free grant requires a separate commercial licence: see [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md).  
+Earlier versions were published under other terms; this licence applies from 2026-11-13.  
+This repository adopts the canonical AG-SML v1.2 published at Eternally-Thriving-Grandmasterism/Ra-Thor; it applies to this repository from 2026-11-13. References in the licence text to the official Ra-Thor repository and its sister trees mean that canonical home.
 
 Installation / Usage  
 1. Use any trigger in any language  
